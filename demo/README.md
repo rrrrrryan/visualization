@@ -1,6 +1,8 @@
 # demo
 
-This code comes from [this](https://shiny.rstudio.com/articles/shinyapps.html?_ga=2.17148665.170292161.1644119934-1478339637.1644119934) tutorial.
+https://rrryan.shinyapps.io/demo/
+
+This code comes from [this](https://shiny.rstudio.com/articles/shinyapps.html) tutorial.
 
 
 ## Quick Version:
