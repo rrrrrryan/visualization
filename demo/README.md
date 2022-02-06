@@ -32,4 +32,4 @@ library(rsconnect)
 deployApp()
 ```
 
-This will deploy to **`https://username.shinyapps.io/folder/`**, where `folder` is the name of the folder containing `server.R` and `ui.R`.
+This will deploy to **`https://username.shinyapps.io/folder/`**, where `folder` is the name of the folder that is your working directory when you execute the `deployApp()` command.
