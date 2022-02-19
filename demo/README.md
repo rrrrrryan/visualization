@@ -26,7 +26,7 @@ library(shiny)
 runApp()
 ```
 
-### Deply
+### Deploy
 ```
 library(rsconnect)
 deployApp()
